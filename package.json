@@ -1,0 +1,32 @@
+{
+  "name": "symbioticlove-json-parser",
+  "version": "1.0.0",
+  "description": "Documentation can be found at https://github.com/SymbioticLove/JSON-Parser/.",
+  "main": "parser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node parser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SymbioticLove/JSON-Parser.git"
+  },
+  "keywords": [
+    "JSON",
+    "Parser",
+    "Data",
+    "Organization",
+    "Structure"
+  ],
+  "author": "Matthew Ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SymbioticLove/JSON-Parser/issues"
+  },
+  "homepage": "https://github.com/SymbioticLove/JSON-Parser#readme",
+  "dependencies": {
+    "symbioticlove-json-parser": "^1.0.0"
+  }
+}

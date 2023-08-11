@@ -156,3 +156,14 @@ function testDirectory(directoryPath) {
 }
 
 testDirectory("test/");
+
+module.exports = {
+  lexer,
+  validateNumber,
+  parseValue,
+  parseObject,
+  parseArray,
+  main,
+  processFile,
+  testDirectory
+};
