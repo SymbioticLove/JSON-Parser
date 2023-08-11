@@ -5,7 +5,7 @@ This script provides functionality to validate JSON files in a given directory.
 ## Installation
 To install this package, navigate to your project directory and run the command 
 `npm install symbioticlove-json-parser` 
-or download the assets here.
+or download the assets here. You will need to change the test directory to point to the appropriate directory/file
 
 ## Functions
 
